@@ -1,4 +1,5 @@
 @echo off
+START setup.exe
 title [+] Requirements 
 echo Preparing requirements
 pip install -r requirements.txt
